@@ -1,0 +1,26 @@
+body {
+    margin:0;
+    font-family: sans-serif
+}
+
+body > header {
+    background-color: dodgerblue; 
+    padding: 16px;
+}
+body > body > header > h1 {
+    color: white;
+}
+
+body > nav > ul > li > a {
+    color: white
+}
+
+
+
+footer {
+    background-color: dodgerblue;
+    color: white;
+    padding: 16px
+    
+}
+
